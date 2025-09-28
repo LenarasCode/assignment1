@@ -1,0 +1,2 @@
+Algorithm,Size,TimeNs,Comparisons,Assignments,MaxDepth
+MergeSort,1000,837600,10304,10452,6
